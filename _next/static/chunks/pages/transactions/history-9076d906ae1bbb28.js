@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9870],{45124:(_,n,s)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/transactions/history",function(){return s(52421)}])}},_=>{var n=n=>_(_.s=n);_.O(0,[5699,8624,6780,5566,4133,9742,636,6593,8792],()=>n(45124)),_N_E=_.O()}]);
+//# sourceMappingURL=history-9076d906ae1bbb28.js.map

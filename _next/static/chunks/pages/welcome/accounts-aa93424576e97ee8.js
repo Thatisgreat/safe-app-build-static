@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7003],{10374:(e,n,c)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/welcome/accounts",function(){return c(67072)}])},67072:(e,n,c)=>{"use strict";c.r(n),c.d(n,{default:()=>a});var s=c(74848),t=c(13368),_=c.n(t),r=c(30846),u=c(11100);let a=()=>(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(_(),{children:(0,s.jsx)("title",{children:"".concat(u.Az," – My accounts")})}),(0,s.jsx)(r.A,{})]})}},e=>{var n=n=>e(e.s=n);e.O(0,[636,6593,8792],()=>n(10374)),_N_E=e.O()}]);
+//# sourceMappingURL=accounts-aa93424576e97ee8.js.map
